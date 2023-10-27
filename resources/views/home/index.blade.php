@@ -76,7 +76,7 @@
                         <p class="text-lg text-gray-500 mt-5 font-semibold">
                             Udah pernah mendengar tentang 'Cinlok' (Cinta Lokasi)? Sekarang, di Bucin, kamu bisa mencari
                             'Cinlok' kamu sendiri. Temukan seseorang yang cocok denganmu dan bagi minat serta
-                            kebahagiaan bersama. Di sini, kita menghadirkan peluang untuk menemukan cinta sejati,
+                            kebahagiaan bersama. Di sini, Bucin menghadirkan peluang untuk menemukan cinta sejati,
                             seperti dalam 'Cinlok' (Cinta Lokasi) yang selalu kamu idamkan.
                         </p>
                     </div>
