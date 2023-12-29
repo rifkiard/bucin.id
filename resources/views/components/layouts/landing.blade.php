@@ -13,7 +13,7 @@
         content="Bucin bukan sekadar aplikasi kencan biasa. Bucin adalah penjalin hubungan, penyemangat hati, dan pemberi dukungan dalam pencarian cinta sejati. Bucin percaya cinta adalah bahasa universal yang menghubungkan kita sebagai anak bangsa, dan setiap sudut negara ini memiliki kisah cinta tak terhitung.">
     <meta name="keywords"
         content="bucin, kisah cinta, kisah cinta anak bangsa, kisah cinta indonesia, kisah cinta terbaik, kisah cinta terindah, kisah cinta sedih, kisah cinta romantis, kisah cinta sedih, kisah cinta nyata, kisah cinta sejati, kisah cinta terbaru, kisah cinta sedih">
-    <meta name="author" content="PT. Kisah Cinta Anak Bangsa">
+    <meta name="author" content="CV Abdi Darma Perkasa">
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
